@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Pycharm project files
+.idea
+
+###
+# Data Science and ML tools folders
+###
+
+# MLflow
+mlruns
+
+
